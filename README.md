@@ -1,8 +1,10 @@
-# Kings County Housing Bake-off
+# Kings County Housing Price Prediction
+
+Author: Ismael Araujo
 
 ## Overview
 
-![img](seattle.jpg)
+![img](/seattle.jpg)
 
 Using data exploration, feature engineering, and statistical test, I created a model to predict prices of houses in Kings County, Seattle. This repository contains files that will lead to a final prediction that have not been trained and it did not contain prices.
 
@@ -22,7 +24,7 @@ Using data exploration, feature engineering, and statistical test, I created a m
 ### Data
 The data set was provided by Flatiron School.
 
-Results
+### Results
 
 The model was able to predict houses with a RMSE of 164078.53 and a R-squared score of 0.80. During the construction of the model, it turned out that most of the variables helped predicting house prices. The features with the highest correlations with price were number of bedrooms, number of bathrooms, and square-feet living space. All the continuous variables helped to create a better model. However, categorical variables did not help as much. Zipcodes was an exception.
 
