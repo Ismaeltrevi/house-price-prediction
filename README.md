@@ -2,7 +2,7 @@
 
 ## Overview
 
-![img](./images/seattle.jpg)
+![img](/images/seattle.jpg)
 
 Using data exploration, feature engineering, and statistical test, I created a model to predict prices of houses in Kings County, Seattle. This repository contains files that will lead to a final prediction that have not been trained and it did not contain prices.
 
