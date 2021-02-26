@@ -2,16 +2,6 @@
 
 Author: Ismael Araujo
 
-### Navigation
-- 'KingsCountyHousingPrices.ipynb': Notebook containing all the EDA, data visualizations, feature engineering, and models.
-- 'housing_preds_ismael_araujo': Notebook predicting house prices.
-- 'Predict_holdout.ipynb': Notebook with the predictive model being aplied to the data set without prices
-- README.md
-- model.pickle file
-- model.pkl file
-- data: folder with the data frames in .csv
-- images: folder containing images
-
 ## Overview
 
 ![seattle](https://github.com/Ismaeltrevi/project-kings_county_housing_prices/blob/main/seattle.jpg)
@@ -49,4 +39,12 @@ The model was able to predict houses with a RMSE of 164078.53 and a R-squared sc
 
 - Use the coordinates to add atributes such as good schools and how close the houses are to big companies and the commercial district.
 
-
+### Navigation
+- 'KingsCountyHousingPrices.ipynb': Notebook containing all the EDA, data visualizations, feature engineering, and models.
+- 'housing_preds_ismael_araujo': Notebook predicting house prices.
+- 'Predict_holdout.ipynb': Notebook with the predictive model being aplied to the data set without prices
+- README.md
+- model.pickle file
+- model.pkl file
+- data: folder with the data frames in .csv
+- images: folder containing images
