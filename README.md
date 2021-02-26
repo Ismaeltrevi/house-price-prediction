@@ -1,7 +1,5 @@
 # Kings County Housing Price Prediction
 
-Author: Ismael Araujo
-
 ## Overview
 
 ![seattle](https://github.com/Ismaeltrevi/project-kings_county_housing_prices/blob/main/seattle.jpg)
