@@ -6,17 +6,18 @@
 
 In this project, I created a model that predicts the house price in King County, Seattle with and RMSE of 164078.53 and R-squared of .80. I used data exploration, feature engineering, statistical tests, and modeling to complete this project.
 
-### Deliverables
-1. GitHub repository with all the files
-2. Jupyter notebook with EDA, Feature Engineering, statistical tests, and model evaluation.
-3. Holdout predictions
+### Business Problem
 
-### Business Problem:
 1. What are the most important variables in predicting the selling price of a house?
 
 2. What variables can we create to make a strong model?
 
 3. Is there any difference in price depending on the month of when a house is sold?
+
+### Deliverables
+1. GitHub repository with all the files
+2. Jupyter notebook with EDA, Feature Engineering, statistical tests, and model evaluation.
+3. Holdout predictions
 
 
 ### Data
