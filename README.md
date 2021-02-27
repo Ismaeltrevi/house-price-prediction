@@ -1,10 +1,10 @@
 # Kings County Housing Price Prediction
 
-## Overview
-
 ![seattle](https://github.com/Ismaeltrevi/project-kings_county_housing_prices/blob/main/seattle.jpg)
 
-Using data exploration, feature engineering, and statistical test, I created a model to predict prices of houses in Kings County, Seattle. This repository contains files that will lead to a final prediction that have not been trained and it did not contain prices.
+## Overview
+
+In this project, I created a model that predicts the house price in King County, Seattle with and RMSE of 164078.53 and R-squared of .80. I used data exploration, feature engineering, statistical tests, and modeling to complete this project.
 
 ### Deliverables
 1. GitHub repository with all the files
