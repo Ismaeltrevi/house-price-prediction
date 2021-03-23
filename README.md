@@ -39,11 +39,17 @@ The model was able to predict houses with a RMSE of 164078.53 and a R-squared sc
 - Use the coordinates to add atributes such as good schools and how close the houses are to big companies and the commercial district.
 
 ### Navigation
-- 'KingsCountyHousingPrices.ipynb': Notebook containing all the EDA, data visualizations, feature engineering, and models.
-- 'housing_preds_ismael_araujo': Notebook predicting house prices.
-- 'Predict_holdout.ipynb': Notebook with the predictive model being aplied to the data set without prices
-- README.md
-- model.pickle file
-- model.pkl file
-- data: folder with the data frames in .csv
-- images: folder containing images
+
+```
+├── .ipynb_checkpoints # checkpoints
+├── code # pickle files
+├── data #datasets
+├── images 
+├── notebooks
+├── .DS_Store
+├── Cleaned-Notebook.ipynb
+├── README.md
+├── model.pickle
+├── model.pkl
+├── seattle.jpg
+```
