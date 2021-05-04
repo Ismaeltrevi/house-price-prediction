@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this project, I created a model that predicts the house price in King County, Seattle with and RMSE of 164078.53 and R-squared of .80. I used data exploration, feature engineering, statistical tests, and modeling to complete this project.
+In this project, I created a model that predicts the house price in King County, Seattle with and RMSE of 111078.53 and R-squared of .80. I used data exploration, feature engineering, statistical tests, and modeling to complete this project.
 
 ### Business Problem
 
