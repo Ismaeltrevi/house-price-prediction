@@ -14,12 +14,6 @@ In this project, I created a model that predicts the house price in King Conty, 
 
 3. Is there any difference in price depending on the month of when a house is sold?
 
-### Deliverables
-1. GitHub repository with all the files
-2. Jupyter notebook with EDA, Feature Engineering, statistical tests, and model evaluation.
-3. Holdout predictions
-
-
 ### Data
 The data set was provided by Flatiron School.
 
